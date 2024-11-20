@@ -3,7 +3,7 @@
 
 <img src="https://blog.petehouston.com/wp-content/uploads/2017/11/laravel-nginx.jpg">
 
-Go to all projects folder
+Go to directory where you want to save the project
 ```bash
 cd /var/www
 ```
